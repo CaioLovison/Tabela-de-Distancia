@@ -20,6 +20,11 @@ body{
     background-color: black;
 }
 
-.letra{
-    background-color: whi;
+
+#preview{
+    background-color: black;
 }
+
+.largmast{
+    width: 100px;
+    }
