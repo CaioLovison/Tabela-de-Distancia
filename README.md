@@ -20,6 +20,10 @@ O Projeto consite na composição de uma tabela que conta com capitais brasileir
 * Salvador
 * São Lúis
 * São Paulo
+
+### Resultado do projeto
+
+![Resultado final do projeto]()
  
 ## Tecnologias
 * HTML5
