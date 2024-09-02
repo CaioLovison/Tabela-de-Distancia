@@ -72,7 +72,7 @@ O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo chamado main.cs
 ## Referências
  
 [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrivel no seu gitHub
-[Ranoya] ((https://www.ranoya.com/books/public/html/tag-td.php#:~:text=A%20tag%20cria%20uma,pela%20tag%20))
+[Ranoya] (https://www.ranoya.com/books/public/html/tag-td) - Informações sobre td, tr e table
  
 ## Autor(a)
  Projeto desenvolvido pelo grupo:
