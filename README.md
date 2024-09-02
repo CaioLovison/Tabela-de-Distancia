@@ -51,6 +51,16 @@ Veja uma imagem de parte do codígo, onde é possivel indentificar o uso dos ele
 
 O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo chamado main.css. Neste arquivo, constam configurações de estilo, apresentadas a seguir:
 
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida como segue:
+
+```
+.largColuna{
+    width: 200px;
+    background-color: rgb(255, 217, 5);
+   
+}
+```
+
 
 
 ## Tecnologias
