@@ -23,8 +23,36 @@ O Projeto consite na composição de uma tabela que conta com capitais brasileir
 
 ### Resultado do projeto
 
-![Resultado final do projeto]()
+#### Tabela
+
+* table - é um conjunto estruturado de dados composto de linhas e colunas (dados tabulares). 
+* tr - a tag tr cria uma linha dentro de uma tag table e acomoda diversas tags th ou td que criam colunas dentro das linhas, formando uma tabela no documento
+* td - a tag td cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha definida pela tag tr
+
+Veja uma imagem de parte do codígo, onde é possivel indentificar o uso dos elementos mencionados acima:
+
+* table
+
+![](img/table.png)
+
+* tr
+
+![](img/tr.png)
+
+* td
+
+![](img/td.png)
+
+#### Na imagem abaixo você ira ver o final do codigo do projeto
+
+![Resultado final do projeto](img/resultado-final.png)
  
+### Estilização
+
+O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo chamado main.css. Neste arquivo, constam configurações de estilo, apresentadas a seguir:
+
+
+
 ## Tecnologias
 * HTML5
 * CSS3
@@ -34,6 +62,7 @@ O Projeto consite na composição de uma tabela que conta com capitais brasileir
 ## Referências
  
 [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrivel no seu gitHub
+[Ranoya] ((https://www.ranoya.com/books/public/html/tag-td.php#:~:text=A%20tag%20cria%20uma,pela%20tag%20))
  
 ## Autor(a)
  Projeto desenvolvido pelo grupo:
